@@ -2,6 +2,9 @@
 
 This application provides a web-based interface for extracting text from PDF documents and images using OCR (Optical Character Recognition) technology. It leverages the OCR.space API to process documents and provides the extracted text in multiple formats.
 
+## Live Demo
+A demo version of this application is available at: https://pdf-web-app-dev.azurewebsites.net
+
 ## Features
 
 - Upload and process PDF documents and images (PDF, JPG, JPEG, PNG)
